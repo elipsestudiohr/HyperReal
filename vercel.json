@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/Hyper_Real_Estate",
+      "destination": "/Hyper_Real_Estate.html"
+    }
+  ]
+}
